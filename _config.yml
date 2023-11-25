@@ -1,10 +1,10 @@
 # Info about you
 name: Marshall Johnson
-position: Data Analyst II
+position: Data Scientist III
 email: mpj747@gmail.com
-company_name: Lakeshore Learning
-company_url: https://www.lakeshorelearning.com
-place_name: Santa Monica, CA
+company_name: Expedia Group
+company_url: https://www.expedia.com
+place_name: Austin, TX
 
 # Blog info
 title: Marshall's Blog
@@ -12,9 +12,7 @@ description: Blog
 url: https://marshallj27.github.io/Marshall27.github.io/
 main_github_io: false
 long_description: >-
-    Welcome! I'm a data analyst at Lakeshore learning and am obsessed with learning more about data and 
-    how we can use it for generating insights! My current interests are A/B testing and bayesian inference.
-
+    Welcome! I'm a data scientist 
 # Social links
 github_url: https://github.com/MarshallJ27
 linkedin_url: http://www.linkedin.com/in/your-name
